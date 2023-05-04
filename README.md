@@ -8,7 +8,7 @@ O HtmlAnalyzer é um programa em Java que analisa um arquivo HTML ou uma URL e e
 ## Como usar
 O programa pode ser executado a partir da linha de comando. É necessário passar como argumento uma URL ou o caminho de um arquivo HTML válido.
 
-Exemplo de uso com uma URL: java HtmlAnalyzer http://hiring.axreng.com/internship/example1.html
+Exemplo de uso com uma URL: java HtmlAnalyzer URL
 
 Exemplo de uso com um arquivo HTML local: java HtmlAnalyzer /caminho/para/arquivo.html
 
